@@ -1,4 +1,3 @@
 # DSC180A-Methodology-3
 
-Varick Janiro Hasim
-Vincentius Daniel Budidharma
+Varick Janiro Hasim and Vincentius Daniel Budidharma
